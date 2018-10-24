@@ -1,0 +1,5 @@
+var idade = prompt("+18");
+var serviço = prompt("posso te ajudar?");
+var identificaçao = prompt("
+if (serviço == "eu quero fazer minha abilitaçao"){
+    alert("quantos anos voce tem?")
